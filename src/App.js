@@ -7,7 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Weather />
-        <p> </p>
+        <p>
+          <a href="https://github.com/tashatran/weather-react">
+            Open source code, by Tasha Tran
+          </a>
+        </p>
       </header>
     </div>
   );
