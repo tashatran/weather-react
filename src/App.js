@@ -9,8 +9,9 @@ function App() {
         <Weather />
         <p>
           <a href="https://github.com/tashatran/weather-react">
-            Open source code, by Tasha Tran
+            Open source code,
           </a>
+          by Tasha Tran
         </p>
       </header>
     </div>
